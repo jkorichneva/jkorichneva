@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Jana. I am Frontend developer with full-stack background, who worked both in startups and in enterprise companies.
-More info about me and my contributions here:
+More info about me and my contributions [here](https://jkorichneva.github.io/website/) 
 
 <!--
 **jkorichneva/jkorichneva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
