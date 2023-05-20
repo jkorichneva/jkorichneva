@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Jana.
+My name is Jana. I'm a frontend engineer with full-stack background
 
 - 👩🏼‍💻 I'm working at [Flink](https://www.goflink.com/de-DE/)
 - 🌍 Located in Tbilisi, Georgia
@@ -9,3 +9,4 @@ My name is Jana.
 - 💬 I am happy to mentor someone
 
 More info about me and my contributions [here](https://jkorichneva.github.io/website/) 
+
