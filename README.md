@@ -1,19 +1,10 @@
 ### Hi there 👋
 
-My name is Jana. I am Frontend developer with full-stack background, who worked both in startups and in enterprise companies.
+My name is Jana..
+👩 🏼‍💻I'm working at [Flink](https://www.goflink.com/de-DE/)
+🌍 Located in Tbilisi, Georgia
+🌱 I like TypeScript, React, automatisation of processes
+📒 OSS contributions are related to React docs and web technologies
+💬 I am happy to mentor someone
+
 More info about me and my contributions [here](https://jkorichneva.github.io/website/) 
-
-<!--
-**jkorichneva/jkorichneva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
